@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.55",
+    "axios": "^1.7.7",
+    "canvacord": "^6.0.2",
+    "discord.js": "^14.16.1",
+    "mongodb": "^6.9.0",
+    "mongoose": "^8.6.2",
+    "node-fetch": "^3.3.2",
+    "sharp": "^0.33.5",
+    "superagent": "^10.1.1"
+  }
+}

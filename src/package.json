@@ -1,0 +1,21 @@
+{
+  "name": "hoshii",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "hoshiiBot"
+  },
+  "keywords": [
+    "hoshii"
+  ],
+  "author": "matsu10",
+  "license": "ISC",
+  "description": "hoshii bot is still idk",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
